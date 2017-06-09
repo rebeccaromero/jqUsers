@@ -1,0 +1,26 @@
+table{
+        border: 1px solid black;
+        width: 650px;
+    }
+
+h1{
+    border-bottom: 1px solid black;
+    width: 400px;
+}
+
+form div{
+    margin: 5px;
+    display: block;
+    float: right;
+    
+}
+
+form{
+    width: 275px;
+    margin
+}
+
+.button{
+    display: inline-block;
+    float: right;
+}
